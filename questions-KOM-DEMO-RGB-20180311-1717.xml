@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/Zkouskovy_test/DEMO-RGB</text>
+
+    </category>
+  </question>
+
+<!-- question: 24175  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20150121_1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterize the next change in an airline company as primarily change in the O-, I- or D-organisation:</p><p><i>The possibility to book ﬂights on the web site of the company.</i></p><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24176  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20150121_2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterize the next change in an airline company as primarily change in the O-, I- or D-organisation:</p><p><i>The possibility to check-in on the web site of the company</i><i>.</i></p><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24177  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20150121_3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterize the next change in an airline company as primarily change in the O-, I- or D-organisation:</p><p><i>The possibility to download the boarding pass on your smart phone instead of printing it.</i></p><p><br></p><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24178  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20150121_4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterize the next change in an airline company as primarily change in the O-, I- or D-organisation:</p><p><i>The possibility to be informed by the company about ﬂight delays, etc.</i></p><p><br></p><p><br></p><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24179  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20150121_5</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterize the next change in an airline company as primarily change in the O-, I- or D-organisation:</p><p><i>The possibility to rent a car in addition to booking ﬂights.</i></p><p><br></p><p><br></p><p><br></p><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24225  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20160116_1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indicate the next changes in the company WholyPharm (case below) as primarily changes in
+the O-organisation (by an “O”), the I-organisation (by an “I”) or the D-organisation (by a “D”):<br></p><p><span><i style="">Informing customers about intended changes in the assortment of articles.</i><br></span></p><p><b>Case:</b><br></p><p>WholyPharm is a wholesale company in the pharmaceutical sector. Their customers are pharmacies,
+both private ones and hospital pharmacies. The pharmacies have a long-term relationship
+with the company, laid down in long-term contracts. This falls outside the scope of the
+case, however. The case only concerns what is described hereafter.
+Whenever there is a need, a pharmacy places an order, with reference to its current long-term
+contract, on the company’s website. An order regards a number of items of one article (kind).
+The customers of WholyPharm have access to the (digital) article assortment (called the article
+base), from which they select the articles they want to order. If a customer order can be delivered,
+WholyPharm sends a confirmation e-mail to the customer. In addition, the corresponding
+invoice is sent.
+In order to save transport costs, WholyPharm collects weekly all purchase orders of every
+pharmacy, and delivers the articles in one shipment. Next to this process, separate shipments
+may be carried out (at an extra price) for urgent orders (to be indicated by the customer).
+The article base is managed, on a monthly basis, by a specific department of the company. To
+perform this task, one keeps up-to-date knowledge of the market of pharmaceutical products, as
+well as knowledge of the purchase behaviour of the customers of WholyPharm. As a result, new
+articles may be added (Note: the removal of articles is disregarded). Next to this article base
+management process, customers can also ask to add articles that they are interested in. To do
+this, they have to fill out a so-called NewArt form, and to submit the form by postal mail.<br></p><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24226  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20160116_2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indicate the next changes in the company WholyPharm (case below) as primarily changes in
+the O-organisation (by an “O”), the I-organisation (by an “I”) or the D-organisation (by a “D”):<br></p><p><span><i style="">Outsourcing the shipments of purchased articles to an external company.</i><br></span></p><p><b>Case:</b><br></p><p>WholyPharm is a wholesale company in the pharmaceutical sector. Their customers are pharmacies,
+both private ones and hospital pharmacies. The pharmacies have a long-term relationship
+with the company, laid down in long-term contracts. This falls outside the scope of the
+case, however. The case only concerns what is described hereafter.
+Whenever there is a need, a pharmacy places an order, with reference to its current long-term
+contract, on the company’s website. An order regards a number of items of one article (kind).
+The customers of WholyPharm have access to the (digital) article assortment (called the article
+base), from which they select the articles they want to order. If a customer order can be delivered,
+WholyPharm sends a confirmation e-mail to the customer. In addition, the corresponding
+invoice is sent.
+In order to save transport costs, WholyPharm collects weekly all purchase orders of every
+pharmacy, and delivers the articles in one shipment. Next to this process, separate shipments
+may be carried out (at an extra price) for urgent orders (to be indicated by the customer).
+The article base is managed, on a monthly basis, by a specific department of the company. To
+perform this task, one keeps up-to-date knowledge of the market of pharmaceutical products, as
+well as knowledge of the purchase behaviour of the customers of WholyPharm. As a result, new
+articles may be added (Note: the removal of articles is disregarded). Next to this article base
+management process, customers can also ask to add articles that they are interested in. To do
+this, they have to fill out a so-called NewArt form, and to submit the form by postal mail.<br></p><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24227  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20160116_3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indicate the next changes in the company WholyPharm (case below) as primarily changes in
+the O-organisation (by an “O”), the I-organisation (by an “I”) or the D-organisation (by a “D”):<br></p><p><span><i style="">Sending an SMS to confirm a customer order, in addition to the e-mail.</i><br></span></p><p><b>Case:</b><br></p><p>WholyPharm is a wholesale company in the pharmaceutical sector. Their customers are pharmacies,
+both private ones and hospital pharmacies. The pharmacies have a long-term relationship
+with the company, laid down in long-term contracts. This falls outside the scope of the
+case, however. The case only concerns what is described hereafter.
+Whenever there is a need, a pharmacy places an order, with reference to its current long-term
+contract, on the company’s website. An order regards a number of items of one article (kind).
+The customers of WholyPharm have access to the (digital) article assortment (called the article
+base), from which they select the articles they want to order. If a customer order can be delivered,
+WholyPharm sends a confirmation e-mail to the customer. In addition, the corresponding
+invoice is sent.
+In order to save transport costs, WholyPharm collects weekly all purchase orders of every
+pharmacy, and delivers the articles in one shipment. Next to this process, separate shipments
+may be carried out (at an extra price) for urgent orders (to be indicated by the customer).
+The article base is managed, on a monthly basis, by a specific department of the company. To
+perform this task, one keeps up-to-date knowledge of the market of pharmaceutical products, as
+well as knowledge of the purchase behaviour of the customers of WholyPharm. As a result, new
+articles may be added (Note: the removal of articles is disregarded). Next to this article base
+management process, customers can also ask to add articles that they are interested in. To do
+this, they have to fill out a so-called NewArt form, and to submit the form by postal mail.<br></p><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24228  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20160116_4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indicate the next changes in the company WholyPharm (case below) as primarily changes in
+the O-organisation (by an “O”), the I-organisation (by an “I”) or the D-organisation (by a “D”):<br></p><p><span><i style="">Giving customers access to their order history.</i><br></span></p><p><b>Case:</b><br></p><p>WholyPharm is a wholesale company in the pharmaceutical sector. Their customers are pharmacies,
+both private ones and hospital pharmacies. The pharmacies have a long-term relationship
+with the company, laid down in long-term contracts. This falls outside the scope of the
+case, however. The case only concerns what is described hereafter.
+Whenever there is a need, a pharmacy places an order, with reference to its current long-term
+contract, on the company’s website. An order regards a number of items of one article (kind).
+The customers of WholyPharm have access to the (digital) article assortment (called the article
+base), from which they select the articles they want to order. If a customer order can be delivered,
+WholyPharm sends a confirmation e-mail to the customer. In addition, the corresponding
+invoice is sent.
+In order to save transport costs, WholyPharm collects weekly all purchase orders of every
+pharmacy, and delivers the articles in one shipment. Next to this process, separate shipments
+may be carried out (at an extra price) for urgent orders (to be indicated by the customer).
+The article base is managed, on a monthly basis, by a specific department of the company. To
+perform this task, one keeps up-to-date knowledge of the market of pharmaceutical products, as
+well as knowledge of the purchase behaviour of the customers of WholyPharm. As a result, new
+articles may be added (Note: the removal of articles is disregarded). Next to this article base
+management process, customers can also ask to add articles that they are interested in. To do
+this, they have to fill out a so-called NewArt form, and to submit the form by postal mail.<br></p><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24229  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20160116_5</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Indicate the next changes in the company WholyPharm (case below) as primarily changes in
+the O-organisation (by an “O”), the I-organisation (by an “I”) or the D-organisation (by a “D”):<br></p><p><span><i style="">Making the NewArt form digital.</i><br></span></p><p><b>Case:</b><br></p><p>WholyPharm is a wholesale company in the pharmaceutical sector. Their customers are pharmacies,
+both private ones and hospital pharmacies. The pharmacies have a long-term relationship
+with the company, laid down in long-term contracts. This falls outside the scope of the
+case, however. The case only concerns what is described hereafter.
+Whenever there is a need, a pharmacy places an order, with reference to its current long-term
+contract, on the company’s website. An order regards a number of items of one article (kind).
+The customers of WholyPharm have access to the (digital) article assortment (called the article
+base), from which they select the articles they want to order. If a customer order can be delivered,
+WholyPharm sends a confirmation e-mail to the customer. In addition, the corresponding
+invoice is sent.
+In order to save transport costs, WholyPharm collects weekly all purchase orders of every
+pharmacy, and delivers the articles in one shipment. Next to this process, separate shipments
+may be carried out (at an extra price) for urgent orders (to be indicated by the customer).
+The article base is managed, on a monthly basis, by a specific department of the company. To
+perform this task, one keeps up-to-date knowledge of the market of pharmaceutical products, as
+well as knowledge of the purchase behaviour of the customers of WholyPharm. As a result, new
+articles may be added (Note: the removal of articles is disregarded). Next to this article base
+management process, customers can also ask to add articles that they are interested in. To do
+this, they have to fill out a so-called NewArt form, and to submit the form by postal mail.<br></p><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24174  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20160118_1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterise the next changes in the case Pizzeria (DEMO Bachelor course) as primarily changes in the O-organisation, the I-organisation or the D-organisation:</p><p><i>Ordering pizza’s via the new Mama Mia website, next to making telephone calls.</i></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24217  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20160118_2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterise the next changes in the case Pizzeria (DEMO Bachelor course) as primarily changes in the O-organisation, the I-organisation or the D-organisation:</p><p><i>Paying in advance for orders that are placed via the website.</i></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24216  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20160118_3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterise the next changes in the case Pizzeria (DEMO Bachelor course) as primarily changes in the O-organisation, the I-organisation or the D-organisation:</p><p><i>Having the delivery boys use a navigator app on their smart phone to get travel directions.</i></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24218  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20160118_4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterise the next changes in the case Pizzeria (DEMO Bachelor course) as primarily changes in the O-organisation, the I-organisation or the D-organisation:</p><p><i>Outsourcing the delivery of pizza’s to an external delivery company.</i></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24219  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20160118_5</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterise the next changes in the case Pizzeria (DEMO Bachelor course) as primarily changes in the O-organisation, the I-organisation or the D-organisation:</p><p><i>Informing customers via the website about the progress of the completion of their orders.</i></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24220  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20160202_1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterise the next changes that an online bookshop makes as primarily changes in the Oorganisation, the I-organisation or the D-organisation:</p><p><i>Informing customers via the website about the progress of the completion of their orders.</i></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24221  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20160202_2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterise the next changes that an online bookshop makes as primarily changes in the Oorganisation, the I-organisation or the D-organisation:</p><p><i>Offering travel services, next to selling books.</i></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24222  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20160202_3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterise the next changes that an online bookshop makes as primarily changes in the Oorganisation, the I-organisation or the D-organisation:</p><p><i>Outsourcing the delivery of books to an external parcel transport company.</i></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24223  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20160202_4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterise the next changes that an online bookshop makes as primarily changes in the Oorganisation, the I-organisation or the D-organisation:</p><p><i>Letting regular customers pay afterwards for book orders, next to paying in advance.</i></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24224  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20160202_5</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterise the next changes that an online bookshop makes as primarily changes in the Oorganisation, the I-organisation or the D-organisation:</p><p><i>Charging regular customers automatically a 5% discount on every book order.</i></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24180  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20170116_1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterize the next change in company WholyPharm as primarily change in the O-, I- or D-organisation:</p><p><i>Informing customers about intended changes in the assortment of articles.</i></p><p><br></p><p><br></p><p><br></p><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24181  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20170116_2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterize the next change in company WholyPharm as primarily change in the O-, I- or D-organisation:</p><p><i>Outsourcing the shipments of purchased articles to an external company.</i></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24182  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20170116_3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterize the next change in company WholyPharm as primarily change in the O-, I- or D-organisation:</p><p><i>Sending an SMS to conﬁrm a customer order, in addition to the e-mail.</i></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24183  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20170116_4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterize the next change in company WholyPharm as primarily change in the O-, I- or D-organisation:</p><p><i>Giving customers access to their order history.</i></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 24184  -->
+  <question type="multichoice">
+    <name>
+      <text>RGB_20170116_5</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Characterize the next change in company WholyPharm as primarily change in the O-, I- or D-organisation:</p><p><i>Making the submission form digital as an alternative to paper submitted by post.</i></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>O-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>I-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>D-organisation</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>
